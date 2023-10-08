@@ -1,2 +1,1 @@
-# testowe
-Zdanie testowe njccnhc.
+# Zadania 1
