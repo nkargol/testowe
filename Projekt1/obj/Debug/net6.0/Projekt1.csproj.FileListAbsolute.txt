@@ -1,0 +1,15 @@
+H:\Programowanie obiektowe\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.exe
+H:\Programowanie obiektowe\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.deps.json
+H:\Programowanie obiektowe\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.runtimeconfig.json
+H:\Programowanie obiektowe\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.dll
+H:\Programowanie obiektowe\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.pdb
+H:\Programowanie obiektowe\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.csproj.AssemblyReference.cache
+H:\Programowanie obiektowe\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programowanie obiektowe\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.AssemblyInfoInputs.cache
+H:\Programowanie obiektowe\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.AssemblyInfo.cs
+H:\Programowanie obiektowe\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.csproj.CoreCompileInputs.cache
+H:\Programowanie obiektowe\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.dll
+H:\Programowanie obiektowe\Projekt1\Projekt1\obj\Debug\net6.0\refint\Projekt1.dll
+H:\Programowanie obiektowe\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.pdb
+H:\Programowanie obiektowe\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.genruntimeconfig.cache
+H:\Programowanie obiektowe\Projekt1\Projekt1\obj\Debug\net6.0\ref\Projekt1.dll
